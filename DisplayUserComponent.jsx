@@ -18,7 +18,7 @@ export const DisplayUserComponent = ({ userData }) => {
 
           <button>
 
-            <a href={userData?.url}>Profile</a>
+            <a href="https://github.com/Ryn-coding/AryanProject.git">Profile</a>
 
           </button>
 
